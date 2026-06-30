@@ -10,4 +10,6 @@
 ### Each of which are toggleable in the map.
 I also may be adding more features in the future.
 
+_The map has currently only been tested on 1.21.11_
+
 # Requires herobot mod: https://modrinth.com/mod/herobot
